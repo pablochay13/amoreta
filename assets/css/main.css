@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
 @font-face {
-    font-family: 'Sharp Sans';
-    src: url('../webfonts/Themundayfreeversion-Regular.ttf');
+  font-family: "Sharp Sans";
+  src: url("../webfonts/Themundayfreeversion-Regular.ttf");
 }
 
 html,
@@ -227,7 +227,7 @@ body,
 input,
 select,
 textarea {
-  color: #ffffff;
+  color: #616858;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   font-size: 1rem;
@@ -299,7 +299,7 @@ h3.major,
 h4.major,
 h5.major,
 h6.major {
-  border-bottom: solid 1px #ffffff;
+  border-bottom: solid 1px #616858;
   width: -moz-max-content;
   width: -webkit-max-content;
   width: -ms-max-content;
@@ -339,6 +339,10 @@ h5 {
 
 h6 {
   font-size: 0.6rem;
+  font-family: "Sharp Sans";
+}
+
+p {
   font-family: "Sharp Sans";
 }
 
@@ -517,7 +521,7 @@ textarea {
     background-color 0.2s ease-in-out;
   background-color: transparent;
   border-radius: 4px;
-  border: solid 1px #ffffff;
+  border: solid 1px #616858;
   color: inherit;
   display: block;
   outline: 0;
@@ -724,7 +728,7 @@ input[type="radio"] + label:before {
   text-decoration: none;
   border-bottom: none;
   position: relative;
-  color: #ffffff;
+  color: #616858;
 }
 
 .icon:before {
@@ -859,7 +863,6 @@ ul {
 
 ul li {
   padding-left: 0.5em;
-  
 }
 
 ul.alt {
@@ -1030,7 +1033,7 @@ ul.icons li:last-child {
 
 ul.icons li a {
   border-radius: 100%;
-  box-shadow: inset 0 0 0 1px #ffffff;
+  box-shadow: inset 0 0 0 1px #616858;
   display: inline-block;
   height: 2.25rem;
   line-height: 2.25rem;
@@ -1355,7 +1358,7 @@ body.is-preload #bg:before {
   }
 }
 
-#wrapper {
+/* #wrapper {
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
@@ -1400,7 +1403,7 @@ body.is-preload #bg:before {
   #wrapper {
     padding: 1rem;
   }
-}
+} */
 
 /* Header */
 
@@ -1425,7 +1428,7 @@ body.is-preload #bg:before {
     -ms-filter 0.325s ease-in-out, opacity 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out,
     opacity 0.325s ease-in-out;
-  background-image: -moz-radial-gradient(
+  /* background-image: -moz-radial-gradient(
     rgba(0, 0, 0, 0.25) 25%,
     rgba(0, 0, 0, 0) 55%
   );
@@ -1440,7 +1443,7 @@ body.is-preload #bg:before {
   background-image: radial-gradient(
     rgba(0, 0, 0, 0.25) 25%,
     rgba(0, 0, 0, 0) 55%
-  );
+  ); */
   max-width: 100%;
   text-align: center;
 }
@@ -1551,7 +1554,7 @@ body.is-preload #bg:before {
   padding: 0 1.25rem 0 1.45rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   border-bottom: 0;
   color: #ffffff !important;
 }
@@ -1877,10 +1880,10 @@ body.is-preload #footer {
 
 @media (max-width: 767px) {
   .carousel-inner .carousel-item > div {
-      display: none;
+    display: none;
   }
   .carousel-inner .carousel-item > div:first-child {
-      display: block;
+    display: block;
   }
 }
 
@@ -1891,10 +1894,61 @@ body.is-preload #footer {
 }
 
 .card-img {
-border-radius: 0 !important;
-border-color: transparent !important;
+  border-radius: 0 !important;
+  border-color: transparent !important;
 }
 
-.text-green{
+.text-green {
   color: #626959;
+}
+
+.bg-card-bage {
+  background-color: #e0b291 !important;
+}
+
+.bg-butto {
+  background-color: #a4a579 !important;
+  color: #ffffff !important;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropbtn {
+  background-color: transparent;
+  color: #626959;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: transparent;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .dropdown-content {
+    position: relative;
+  }
+  .dropdown,
+  .dropbtn {
+    width: 100%;
+    display: block;
+  }
 }
