@@ -402,7 +402,7 @@ pre code {
 
 hr {
   border: 0;
-  border-bottom: solid 1px #ffffff;
+  border-bottom: solid 1px #626959;
   margin: 2.75rem 0;
 }
 
@@ -871,7 +871,7 @@ ul.alt {
 }
 
 ul.alt li {
-  border-top: solid 1px #ffffff;
+  border-top: solid 1px #626959;
   padding: 0.5em 0;
 }
 
@@ -1240,7 +1240,7 @@ button {
   width: 100%;
   height: 100vh;
   z-index: 1;
-  background-color: #d39088;
+  background-color: #fdfbfc;
 }
 
 #bg:before,
@@ -1307,7 +1307,7 @@ body.is-article-visible #bg:after {
 }
 
 body.is-preload #bg:before {
-  background-color: #d39088;
+  background-color: #fdfbfc;
 }
 
 /* Wrapper */
@@ -1355,6 +1355,7 @@ body.is-preload #bg:before {
 @media screen and (max-width: 480px) {
   #wrapper {
     padding: 1rem;
+    min-height: 20vh;
   }
 }
 
@@ -1465,7 +1466,7 @@ body.is-preload #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: calc(3.5rem + 1px);
-  background: #ffffff;
+  background: #626959;
 }
 
 #header > :first-child {
@@ -1480,7 +1481,7 @@ body.is-preload #bg:before {
   width: 6rem;
   height: 6rem;
   line-height: 5.5rem;
-  border: solid 1px #ffffff;
+  border: solid 1px #626959;
   border-radius: 100%;
 }
 
@@ -1490,7 +1491,7 @@ body.is-preload #bg:before {
 
 #header .content {
   border-style: solid;
-  border-color: #ffffff;
+  border-color: #626959;
   border-top-width: 1px;
   border-bottom-width: 1px;
   max-width: 100%;
@@ -1533,13 +1534,13 @@ body.is-preload #bg:before {
   margin-bottom: 0;
   list-style: none;
   padding-left: 0;
-  border: solid 1px #ffffff;
+  border: solid 1px #626959;
   border-radius: 4px;
 }
 
 #header nav ul li {
   padding-left: 0;
-  border-left: solid 1px #ffffff;
+  border-left: solid 1px #626959;
 }
 
 #header nav ul li:first-child {
@@ -1548,15 +1549,16 @@ body.is-preload #bg:before {
 
 #header nav ul li a {
   display: block;
-  min-width: 7.5rem;
+  min-width: 11.5rem;
   height: 2.75rem;
   line-height: 2.75rem;
   padding: 0 1.25rem 0 1.45rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-size: 0.6rem;
+  font-weight: 700;
   border-bottom: 0;
-  color: #ffffff !important;
+  color: #626959 !important;
 }
 
 #header nav ul li a:hover {
@@ -1575,7 +1577,7 @@ body.is-preload #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: 100%;
-  background: #ffffff;
+  background: #626959;
 }
 
 #header nav.use-middle ul li.is-middle {
@@ -1661,7 +1663,7 @@ body.is-preload #header .content .inner {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    min-width: 10rem;
+    min-width: 16rem;
     max-width: 100%;
   }
 
@@ -1732,7 +1734,7 @@ body.is-preload #header .content .inner {
   position: relative;
   width: 60rem;
   max-width: 100%;
-  background-color: #ecdac4;
+  background-color: #f5f0ec;
   border-radius: 4px;
   opacity: 0;
 }
@@ -1952,3 +1954,6 @@ body.is-preload #footer {
     display: block;
   }
 }
+ #bg {
+  border: 10px solid #d18e86 !important;
+ }
