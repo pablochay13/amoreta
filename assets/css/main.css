@@ -1329,7 +1329,7 @@ body.is-preload #bg:before {
   -ms-justify-content: space-between;
   justify-content: space-between;
   position: relative;
-  min-height: 90vh;
+  min-height: 70vh;
   width: 100%;
   padding: 2rem 2rem;
   z-index: 3;

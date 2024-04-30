@@ -16,8 +16,6 @@
 
 <body class="is-preload borde">
 
-
-
     <!-- Wrapper -->
     <div id="wrapper">
         <!-- Cambio de idioma -->
@@ -261,6 +259,24 @@
                                         <div class="card">
                                             <div class="card-img">
                                                 <img src="images/bodas/6.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/bodas/11.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/bodas/12.webp" class="img-fluid" />
                                             </div>
                                         </div>
                                     </div>
@@ -837,12 +853,12 @@
             </article>
 
             <!-- SOMOS -->
-            <article id="about">
-                <h2 class="major text-green">AMORETA AGENCY</h2>
+            <article id="about" class="text-center">
+                <center><h2 class="major text-green text-center">AMORETA AGENCY</h2></center>
                 <p class="text-green">
                     {textosomos}
                 </p>
-                <span class=" main">
+                <span class="text-center main">
                     <img src="images/somos.jpg" class="img-fluid" alt="" />
                 </span>
             </article>
