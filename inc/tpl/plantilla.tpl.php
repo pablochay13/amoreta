@@ -2,16 +2,20 @@
 <html>
 
 <head>
-    <title>Amoreta Make Up</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>Servicios de Maquillaje para Eventos Sociales en Cancún: ¡Deslumbra en Cualquier Ocasión! - Amoreta Make Up </title>
+    <meta name="description" content="En nuestra agencia de maquillaje en Cancún, nos especializamos en resaltar la belleza natural de cada persona para eventos sociales y bodas inolvidables en el paradisíaco entorno de Cancún. Con un equipo de maquilladores profesionales altamente capacitados y apasionados por su arte, estamos dedicados a brindar un servicio excepcional y personalizado que realce tu estilo único y te haga sentir radiante en tu día especial. Desde maquillaje de novias hasta servicios para eventos sociales, nos enorgullece ofrecer una amplia gama de opciones para adaptarnos a tus necesidades y preferencias. Con productos de alta calidad y técnicas de última generación, te garantizamos un resultado impecable y duradero que te hará lucir y sentirte espectacular en cualquier ocasión. ¡Confía en nosotros para hacer de tu experiencia de belleza en Cancún algo verdaderamente inolvidable!">
+    <meta name="keywords" content="Maquillaje para bodas en Cancún, Maquillaje para novias en Cancún, Servicio de maquillaje para eventos en Cancún, Maquilladora profesional en Cancún, Maquillaje a domicilio en Cancún, Maquillaje de larga duración en Cancún, Maquillaje para fiestas en Cancún, Maquillaje para fotos en Cancún, Maquillaje natural en Cancún, Estudio de maquillaje en Cancún">
+    <link rel="icon" href="images/icon.png" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript>
         <link rel="stylesheet" href="assets/css/noscript.css" />
     </noscript>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" /> -->
+
 </head>
 
 <body class="is-preload borde">
@@ -307,63 +311,68 @@
 
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-4 p-1 border-0">
+                            <div class="col-md-6 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
                                             <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
-                                                <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Yami, Muchas gracias por todo, el maquillaje quedó increíble, aguanto la lloradera, el baile, esa noche llegué destrozada y no me maquille y en la mañana seguía maquillada, de verdad quede encantada 1000/10 el servicio. 
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Idge Mejía</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-md-4 p-1 border-0">
+                            <div class="col-md-6 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
                                             <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
-                                                <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Gracias por todo mi maquillaje si que quedo intacto! Lo ame muchisimo
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Sofía Molina</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
                                 </div>
                             </div>
 
-                            <div class="col-md-4 p-1 border-0">
+                            <div class="col-md-6 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
                                             <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
-                                                <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Son las mejores! Amé su profesionalismo, calidez y puntualidad, El maquillaje y peinado aguantaron perfecto el calor, el viento y el baile :) 
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Cristina Henandez</h4>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 p-1 border-0 ">
+                                <div class="card shadow-sm bg-card-bage">
+                                    <div class="card-body">
+                                        <figure>
+                                            <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
+                                            <figcaption>
+                                                <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Muchisimas gracias por el servicio chicas de @AmoretaMakeUp les quedo excelente y lo mejor su atención y disponibulidad! 1000% Recomendado!
+                                                </blockquote>
+                                                <h4 class="mb-2">Mariana Balado</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -589,7 +598,7 @@
                 </div>
 
                 <!-- Carousel Testimoniales -->
-                <div class="container">
+                <!-- <div class="container">
                     <div class="row justify-content-md-center">
                         <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
                             <h3 class="text-secondary mb-2 text-uppercase text-center text-green">
@@ -665,7 +674,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </article>
 
             <!-- EDITORIAL -->
@@ -854,7 +863,9 @@
 
             <!-- SOMOS -->
             <article id="about" class="text-center">
-                <center><h2 class="major text-green text-center">AMORETA AGENCY</h2></center>
+                <center>
+                    <h2 class="major text-green text-center">AMORETA AGENCY</h2>
+                </center>
                 <p class="text-green">
                     {textosomos}
                 </p>
@@ -868,7 +879,7 @@
                 <h2 class="major text-green">{contacto}</h2>
                 <p class="text-green">{contactosub}</p>
 
-                <form method="post" action="send.php">
+                <form id="contact-form" method="post" action="send.php">
                     <div class="fields">
                         <div class="field half">
                             <label for="name" class="text-green">{contactonombre}</label>
@@ -881,6 +892,9 @@
                         <div class="field">
                             <label for="message" class="text-green">{contactomessage}</label>
                             <textarea name="message" id="message" rows="4"></textarea>
+                        </div>
+                        <div class="field">
+                            <div class="g-recaptcha" data-sitekey="6Lc6G9MpAAAAAMKaVzyYfYQTz3IwyJqMi2XbaMCR"></div>
                         </div>
                     </div>
                     <ul class="actions">
@@ -926,6 +940,9 @@
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
 
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> -->
+    <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+
     <script>
         let items = document.querySelectorAll(".carousel .carousel-item");
 
@@ -942,6 +959,14 @@
                 next = next.nextElementSibling;
             }
         });
+    </script>
+
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+
+    <script>
+        function onSubmit(token) {
+            document.getElementById("contact-form").submit();
+        }
     </script>
 </body>
 

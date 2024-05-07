@@ -1,9 +1,14 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
 
-@font-face {
+/* @font-face {
   font-family: "Sharp Sans";
   src: url("../webfonts/Themundayfreeversion-Regular.ttf");
+} */
+
+@font-face {
+  font-family: "Sharp Sans";
+  src: url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
 }
 
 html,
@@ -1956,4 +1961,9 @@ body.is-preload #footer {
 }
  #bg {
   border: 10px solid #d18e86 !important;
+ }
+
+ .reviews {
+  height: 250px;
+  padding-top: 50px;
  }
