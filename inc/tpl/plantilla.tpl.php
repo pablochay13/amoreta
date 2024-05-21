@@ -146,7 +146,7 @@
                                                 <span>{clasico3}</span>
                                             </li>
                                         </ul>
-                                        <a href="#!" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
+                                        <a href="https://wa.link/4f1po7" target="_blank" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
                                     </div>
                                 </div>
                             </div>
@@ -169,7 +169,7 @@
                                                 <span>{premium4}</span>
                                             </li>
                                         </ul>
-                                        <a href="#!" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
+                                        <a href="https://wa.link/4f1po7" target="_blank" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
                                     </div>
                                 </div>
                             </div>
@@ -195,7 +195,7 @@
                                                 <span>{gold5}</span>
                                             </li>
                                         </ul>
-                                        <a href="#!" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
+                                        <a href="https://wa.link/4f1po7" target="_blank" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
                                     </div>
                                 </div>
                             </div>
@@ -285,6 +285,26 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/5.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/6.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                             <!-- <a class="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel" role="button"
 								data-bs-slide="prev">
@@ -311,7 +331,7 @@
 
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6 p-1 border-0 ">
+                            <div class="col-md-4 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
@@ -319,7 +339,7 @@
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                                                 <blockquote class="bsb-blockquote-icon mb-4 reviews">
-                                                    Yami, Muchas gracias por todo, el maquillaje quedó increíble, aguanto la lloradera, el baile, esa noche llegué destrozada y no me maquille y en la mañana seguía maquillada, de verdad quede encantada 1000/10 el servicio. 
+                                                    Yami, Muchas gracias por todo, el maquillaje quedó increíble, aguanto la lloradera, el baile, esa noche llegué destrozada y no me maquille y en la mañana seguía maquillada, de verdad quede encantada 1000/10 el servicio.
                                                 </blockquote>
                                                 <h4 class="mb-2">Idge Mejía</h4>
                                             </figcaption>
@@ -328,7 +348,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 p-1 border-0 ">
+                            <div class="col-md-4 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
@@ -345,7 +365,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6 p-1 border-0 ">
+                            <div class="col-md-4 p-1 border-0 ">
                                 <div class="card shadow-sm bg-card-bage">
                                     <div class="card-body">
                                         <figure>
@@ -353,26 +373,9 @@
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                                                 <blockquote class="bsb-blockquote-icon mb-4 reviews">
-                                                    Son las mejores! Amé su profesionalismo, calidez y puntualidad, El maquillaje y peinado aguantaron perfecto el calor, el viento y el baile :) 
+                                                    Betty muchas gracias por todo! No se si se dieron cuenta pero nos llovió como diez minutos después, pero todos me preguntaban que me pusieron que mi make up quedo 👌🏻! Muchas gracias.
                                                 </blockquote>
-                                                <h4 class="mb-2">Cristina Henandez</h4>
-                                            </figcaption>
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-md-6 p-1 border-0 ">
-                                <div class="card shadow-sm bg-card-bage">
-                                    <div class="card-body">
-                                        <figure>
-                                            <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
-                                            <figcaption>
-                                                <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
-                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
-                                                    Muchisimas gracias por el servicio chicas de @AmoretaMakeUp les quedo excelente y lo mejor su atención y disponibulidad! 1000% Recomendado!
-                                                </blockquote>
-                                                <h4 class="mb-2">Mariana Balado</h4>
+                                                <h4 class="mb-2">Gaby Vargas</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -415,7 +418,7 @@
                                                 <span>{paque1texto2}</span>
                                             </li>
                                         </ul>
-                                        <a href="#!" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
+                                        <a href="https://wa.link/4f1po7" target="_blank" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
                                     </div>
                                 </div>
                             </div>
@@ -437,7 +440,7 @@
                                                 </span>
                                             </li>
                                         </ul>
-                                        <a href="#!" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
+                                        <a href="https://wa.link/4f1po7" target="_blank" class="btn bsb-btn-xl bg-butto rounded-pill">{elegir}</a>
                                     </div>
                                 </div>
                             </div>
@@ -518,24 +521,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="carousel-item">
-                    <div class="col-md-3 p-1">
-                      <div class="card">
-                        <div class="card-img">
-                          <img src="images/sociales/8.webp" class="img-fluid" />
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="carousel-item">
-                    <div class="col-md-3 p-1">
-                      <div class="card">
-                        <div class="card-img">
-                          <img src="images/sociales/9.webp" class="img-fluid" />
-                        </div>
-                      </div>
-                    </div>
-                  </div> -->
                                 <div class="carousel-item">
                                     <div class="col-md-3 p-1">
                                         <div class="card">
@@ -545,18 +530,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- <div class="carousel-item">
-                    <div class="col-md-3 p-1">
-                      <div class="card">
-                        <div class="card-img">
-                          <img
-                            src="images/sociales/11.webp"
-                            class="img-fluid"
-                          />
-                        </div>
-                      </div>
-                    </div>
-                  </div> -->
                                 <div class="carousel-item">
                                     <div class="col-md-3 p-1">
                                         <div class="card">
@@ -584,6 +557,45 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/1.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/2.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/3.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="carousel-item">
+                                    <div class="col-md-3 p-1">
+                                        <div class="card">
+                                            <div class="card-img">
+                                                <img src="images/peinados/4.webp" class="img-fluid" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                             <!-- <a class="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel" role="button"
 											data-bs-slide="prev">
@@ -598,7 +610,7 @@
                 </div>
 
                 <!-- Carousel Testimoniales -->
-                <!-- <div class="container">
+                <div class="container">
                     <div class="row justify-content-md-center">
                         <div class="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6">
                             <h3 class="text-secondary mb-2 text-uppercase text-center text-green">
@@ -618,13 +630,9 @@
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                                                 <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                    Gracias Yam! Me gustó mucho como quedó
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Paola</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -639,13 +647,11 @@
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                                                 <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                    Me encantó el resultado!
+                                                    <br>
+                                                    &nbsp;
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Nastya</h4>
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -660,13 +666,63 @@
                                             <figcaption>
                                                 <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
                                                 <blockquote class="bsb-blockquote-icon mb-4">
-                                                    Nam ultricies, ex lacinia dapibus faucibus, sapien
-                                                    ipsum euismod massa, at aliquet erat turpis quis
-                                                    diam. Class aptent taciti sociosqu ad litora
-                                                    torquent per conubia nostra, per inceptos himenaeos.
+                                                    Estoy feliz con mi maquillaje!
+                                                    <br>
+                                                    &nbsp;
                                                 </blockquote>
-                                                <h4 class="mb-2">Luna John</h4>
-                                                <h5 class="fs-6 text-secondary mb-0">UX Designer</h5>
+                                                <h4 class="mb-2">Karla</h4>
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 p-1 border-0 ">
+                                <div class="card shadow-sm bg-card-bage">
+                                    <div class="card-body">
+                                        <figure>
+                                            <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
+                                            <figcaption>
+                                                <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Son las mejores! Amé su profesionalismo, calidez y puntualidad, El maquillaje y peinado aguantaron perfecto el calor, el viento y el baile :)
+                                                </blockquote>
+                                                <!-- <h4 class="mb-2">Cristina Henandez</h4> -->
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 p-1 border-0 ">
+                                <div class="card shadow-sm bg-card-bage">
+                                    <div class="card-body">
+                                        <figure>
+                                            <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
+                                            <figcaption>
+                                                <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Muchisimas gracias por el servicio chicas de @AmoretaMakeUp les quedo excelente y lo mejor su atención y disponibulidad! 1000% Recomendado!
+                                                </blockquote>
+                                                <!-- <h4 class="mb-2">Mariana Balado</h4> -->
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4 p-1 border-0 ">
+                                <div class="card shadow-sm bg-card-bage">
+                                    <div class="card-body">
+                                        <figure>
+                                            <img class="img-fluid rounded rounded-circle mb-4 border border-5" loading="lazy" src="./assets/img/testimonial-img-1.jpg" alt="" />
+                                            <figcaption>
+                                                <div class="bsb-ratings text-warning mb-3" data-bsb-star="5" data-bsb-star-off="0"></div>
+                                                <blockquote class="bsb-blockquote-icon mb-4 reviews">
+                                                    Maquillada y peinada desde las 11:00am y todo INTACTO a las 3:00am <br>
+                                                    neta neta neta, solo ustedes @AmoretaMakeUp
+                                                </blockquote>
+                                                <!-- <h4 class="mb-2">Mariana Balado</h4> -->
                                             </figcaption>
                                         </figure>
                                     </div>
@@ -674,7 +730,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
             </article>
 
             <!-- EDITORIAL -->
@@ -907,16 +963,16 @@
 
                 <ul class="icons">
                     <li>
-                        <a href="#" class="icon brands fa-tiktok"><span class="label">TikTok</span></a>
+                        <a href="https://www.tiktok.com/@amoretamakeup" class="icon brands fa-tiktok" target="_blank"><span class="label">TikTok</span></a>
                     </li>
                     <li>
-                        <a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a>
+                        <a href="https://www.facebook.com/amoreta.makeup" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a>
                     </li>
                     <li>
-                        <a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
+                        <a href="https://www.instagram.com/amoreta.makeup/" target="_blank" class="icon brands fa-instagram"><span class="label">Instagram</span></a>
                     </li>
                     <li>
-                        <a href="#" class="icon brands fa-whatsapp"><span class="label">Whatsapp</span></a>
+                        <a href="https://wa.link/4f1po7" class="icon brands fa-whatsapp" target="_blank"><span class="label">Whatsapp</span></a>
                     </li>
                     <a style="text-decoration: none; color: #616858" href="">Email: contact@amoretamakeup.com</a>
                 </ul>
